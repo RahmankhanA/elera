@@ -1,16 +1,47 @@
-# elera
 
-A new Flutter project.
+# E Learning Plateform (Elera)
 
-## Getting Started
+In this project I am going to build full fledg Learning Management System.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 About Me
+I'm a full stack developer...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Skills
+Javascript, TypeScript , Flutter dart
+
+
+
+
+## Credit 
+
+This project is using UI/UX picked from behance by Sobakhul
+
+[Elera UI/Ux](https://www.behance.net/gallery/144190349/Elera-Online-Course-E-Learning-App-UI-Kit)
+
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+Main App Features:
+- Search & Filter Courses/Mentors, Review Features, & Course Certificate Features
+- Real Time Tracking Course Progress with Various Chart
+- Multiple Payments & Course Transactions Management
+- Messenger Features (Chat & Calls Management)
+- Onboarding, Sign up, Sign in, Reset Password, Account Setup   Notification, Bookmark, Search & Filter, Mentors, Reviews, 
+- Help Center (FAQ & Contact Support), Profile & Settings
+
+
+
+## Tech Stack
+
+**Client:** Flutter, Getx
+
+**Server:** Node, Express, TypeScript, Mongodb
+
+
