@@ -20,6 +20,10 @@ This project is using UI/UX picked from behance by Sobakhul
 
 [Elera UI/Ux](https://www.behance.net/gallery/144190349/Elera-Online-Course-E-Learning-App-UI-Kit)
 
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/84c4cc144190349.6287b1b142c3e.png" alt="Preview ">
+</p>
+
 
 ## Features
 
